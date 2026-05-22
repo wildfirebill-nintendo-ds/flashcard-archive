@@ -1,4 +1,6 @@
 # flashcard-archive
+
+Modified by [wildfirebill](https://github.com/wildfirebill)
 This is an archive of all the flashcard firmwares for the Nintendo DS
 
 Some kernels are in different locations, or have consolidated as they are identical carts:
